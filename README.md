@@ -6,6 +6,7 @@ A beginner-friendly console application built in Java to demonstrate control flo
 ## Preview
 ---------------------------------------------------------------------
 ![](jv.png)
+
 ##  How to Run
 1. Open the project in VS Code.
 2. Ensure you have the Java Extension Pack installed.
