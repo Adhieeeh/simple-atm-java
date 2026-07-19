@@ -15,7 +15,7 @@ A beginner-friendly console application built in Java to demonstrate control flo
 3. Open `main.java` and click **Run**.
 
 ##  Concepts Covered
-
+---------------------------------------------------------------------------
 
 * **Arithmetic Operators:** Used for updating bank balances.
 * **Relational & Logical Operators:** Used for conditional input checks (e.g., verifying if the withdrawal amount is valid).
