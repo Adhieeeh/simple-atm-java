@@ -1,5 +1,5 @@
 # Simple ATM Simulator
-
+------------------------------------------------------------------------
 
 A beginner-friendly console application built in Java to demonstrate control flow and core operators.
 
